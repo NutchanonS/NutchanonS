@@ -1,5 +1,5 @@
 ### 🤗 Hi, my name is Nutchanon Suphaphinyo.
-  I'm currently in SuperAI engineering season2 and I'm interested in data science and machine learning. My repositories are about the projects from a variety of industries problem that makes me gain the experiences from beginner to advanced levels. The problem is in the fields of image processing, computer vision, Natural language processing, roboticsAI, IoT and signal processing. Let's enjoy with my github 😄😉
+  I'm interested in data science and machine learning. My repositories are about the projects from a variety of industries problem that makes me gain the experiences from beginner to advanced levels. The problem is in the fields of image processing, computer vision, Natural language processing, roboticsAI, IoT and signal processing. Let's enjoy with my github 😄😉
 <!--
 **NutchanonS/NutchanonS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
